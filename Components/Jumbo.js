@@ -10,7 +10,7 @@ let Jumbo =  function(){
 				<hr class="my-4">
 				<p style="color:white; font-size: 22px;!important">SugarJS ofrece una forma de trabajo modular para equipos pequeños y proyectos simples con base en Javascript.</p>
 				<a class="btn btn-light btn-lg" href="?Docs" role="button">Documentación</a>
-		  		<a class="btn btn-outline-light btn-lg" href="#" role="button">Descargar V1.0</a>
+		  		<a class="btn btn-outline-light btn-lg" href="https://github.com/jmjauregui/Sugar/tree/master" role="button">Descargar V1.0</a>
 			</div>  
 		</div>
 	`;
@@ -19,3 +19,4 @@ let Jumbo =  function(){
 Sugar.component(Jumbo);
 
 
+ 
