@@ -1,9 +1,10 @@
 /**
  * @return {string}
  */
-function Landing_Features(params) {
+function Landing_Features() {
 
         let styleForTitle = `color:#925DC3; font-size:53px!important; font-weight:300;`;
+
         return `
             <div class="container">
                 <div class="row">

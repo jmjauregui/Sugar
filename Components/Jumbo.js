@@ -9,7 +9,7 @@ let Jumbo =  function(){
 				<p class="lead"> Micro Framework para micro proyectos.</p>
 				<hr class="my-4">
 				<p style="color:white; font-size: 22px;!important">SugarJS ofrece una forma de trabajo modular para equipos pequeños y proyectos simples con base en Javascript.</p>
-				<a class="btn btn-light btn-lg" href="#" role="button">Documentación</a>
+				<a class="btn btn-light btn-lg" href="?Docs" role="button">Documentación</a>
 		  		<a class="btn btn-outline-light btn-lg" href="#" role="button">Descargar V1.0</a>
 			</div>  
 		</div>
